@@ -36,7 +36,7 @@ This app [aggregates liquidity across the greater DEX ecosystem using 0x](https:
 * Jessica Lin
 * Developer Advocate, 0x Labs.
 
-# Reading code, interacting with coingecko api and writing down important information
+# Reading code, interacting with CoinGecko API and writing down important information.
 
 * How to use Live Server Extension.
 * GetToken a token info from https://tokenlists.org/
