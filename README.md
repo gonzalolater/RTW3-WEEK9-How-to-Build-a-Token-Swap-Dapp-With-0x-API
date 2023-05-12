@@ -32,7 +32,21 @@ This app [aggregates liquidity across the greater DEX ecosystem using 0x](https:
  * Part 9. Perform the Swap
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+# Teacher 
+* Jessica Lin
+* Developer Advocate, 0x Labs.
 
+# Reading code, interacting with coingecko api and writing down important information
+
+
+
+* How to use Live Server Extension.
+* GetToken a token info from https://tokenlists.org/
+* Get source from CoinGecko  https://tokens.coingecko.com/uniswap/all.json
+* Why need wrapped ETH : https://support.opensea.io/hc/es/articles/360063498293--Qu%C3%A9-es-WETH-C%C3%B3mo-lo-consigo-
+* 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 # NFT
 
 ![Built a Token Swap Dapp with 0x API](https://user-images.githubusercontent.com/42863568/236949330-751f7777-5717-41b6-869d-b0e664ecadd6.jpeg)
