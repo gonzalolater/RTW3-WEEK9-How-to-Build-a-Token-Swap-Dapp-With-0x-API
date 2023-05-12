@@ -38,13 +38,18 @@ This app [aggregates liquidity across the greater DEX ecosystem using 0x](https:
 
 # Reading code, interacting with coingecko api and writing down important information
 
-
-
 * How to use Live Server Extension.
 * GetToken a token info from https://tokenlists.org/
 * Get source from CoinGecko  https://tokens.coingecko.com/uniswap/all.json
 * Why need wrapped ETH : https://support.opensea.io/hc/es/articles/360063498293--Qu%C3%A9-es-WETH-C%C3%B3mo-lo-consigo-
-* 
+* WETH to DAI in Match.xyz: https://www.matcha.xyz/markets/1/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/0x6b175474e89094c44da98b954eedeac495271d0f
+* 0x api Documentation  : https://0x.org/docs/0x-swap-api/api-references/get-swap-v1-quote
+* Browserify, lets you require('modules') in the browser by bundling up all of your dependencies: https://browserify.org/
+* install 'qs.js'
+* Open Zeppelin Documentation Aprove Api for a token erc 20: https://docs.openzeppelin.com/contracts/4.x/api/token/erc20#IERC20-Approval-address-address-uint256-  
+* how to set your token allowances with 0x API: https://0x.org/docs/0x-swap-api/advanced-topics/how-to-set-your-token-allowances
+* Documentation from Web3.Js contract, transaction confirm doc: https://web3js.readthedocs.io/en/v1.10.0/web3-eth-contract.html#transactionconfirmationblocks
+* Create a DEX Aggregator APP
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 # NFT
