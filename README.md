@@ -49,7 +49,7 @@ This app [aggregates liquidity across the greater DEX ecosystem using 0x](https:
 * Open Zeppelin Documentation Aprove Api for a token erc 20: https://docs.openzeppelin.com/contracts/4.x/api/token/erc20#IERC20-Approval-address-address-uint256-  
 * how to set your token allowances with 0x API: https://0x.org/docs/0x-swap-api/advanced-topics/how-to-set-your-token-allowances
 * Documentation from Web3.Js contract, transaction confirm doc: https://web3js.readthedocs.io/en/v1.10.0/web3-eth-contract.html#transactionconfirmationblocks
-* Create a DEX Aggregator APP
+* Create a DEX Aggregator DAPP
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 # NFT
